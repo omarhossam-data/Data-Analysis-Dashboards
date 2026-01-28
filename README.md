@@ -54,7 +54,8 @@
 > Practical dashboards built to solve real business questions.
 
 ### 🔹 Sales Performance Dashboard
-<img src="Project-1/screenshot1.png" width="700"/>
+<img src="profile-previews/1/preview.jpg" width="750"/>
+
 
 **Key Insights:**
 - Identified top-performing products and regions
