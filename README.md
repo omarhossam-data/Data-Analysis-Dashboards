@@ -54,7 +54,10 @@
 > Practical dashboards built to solve real business questions.
 
 ### 🔹 Sales Performance Dashboard
-<img src="profile-previews/1/preview.jpg" width="750"/>
+<a href="projects/sales-dashboard">
+  <img src="profile-previews/1/preview.jpg" width="750"/>
+</a>
+
 
 
 **Key Insights:**
